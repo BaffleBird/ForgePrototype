@@ -1,0 +1,3451 @@
+fileFormatVersion: 2
+guid: d03cf6c09d0dc9c4ba83a01d911b4a2b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2030343430720180918
+    second: Vincetta_Longsword_0
+  - first:
+      213: -3696247103019310056
+    second: Vincetta_Longsword_1
+  - first:
+      213: 3205244165274963226
+    second: Vincetta_Longsword_2
+  - first:
+      213: 1467111462390196642
+    second: Vincetta_Longsword_3
+  - first:
+      213: -4238618831422632046
+    second: Vincetta_Longsword_4
+  - first:
+      213: 6780644779159204070
+    second: Vincetta_Longsword_5
+  - first:
+      213: -3437143605659967449
+    second: Vincetta_Longsword_6
+  - first:
+      213: -6862975925501350752
+    second: Vincetta_Longsword_7
+  - first:
+      213: -3153770717790996101
+    second: Vincetta_Longsword_8
+  - first:
+      213: 4668856561884736624
+    second: Vincetta_Longsword_9
+  - first:
+      213: -5555267039564923399
+    second: Vincetta_Longsword_10
+  - first:
+      213: 8900401791244937297
+    second: Vincetta_Longsword_11
+  - first:
+      213: -8353378543001306998
+    second: Vincetta_Longsword_12
+  - first:
+      213: -1539181565299370987
+    second: Vincetta_Longsword_13
+  - first:
+      213: 5623570863485019924
+    second: Vincetta_Longsword_14
+  - first:
+      213: 3565012722369541198
+    second: Vincetta_Longsword_15
+  - first:
+      213: 6555541644666615660
+    second: Vincetta_Longsword_16
+  - first:
+      213: -8975619464672397363
+    second: Vincetta_Longsword_17
+  - first:
+      213: 4280479064240856477
+    second: Vincetta_Longsword_18
+  - first:
+      213: 6823236521433167544
+    second: Vincetta_Longsword_19
+  - first:
+      213: -29575755128973019
+    second: Vincetta_Longsword_20
+  - first:
+      213: -6651987666819325767
+    second: Vincetta_Longsword_21
+  - first:
+      213: 4107403614024648123
+    second: Vincetta_Longsword_22
+  - first:
+      213: -5881030510180771064
+    second: Vincetta_Longsword_23
+  - first:
+      213: -889220095702980621
+    second: Vincetta_Longsword_24
+  - first:
+      213: -6888464097092100194
+    second: Vincetta_Longsword_25
+  - first:
+      213: 3858649188209357848
+    second: Vincetta_Longsword_26
+  - first:
+      213: 8459393545619942364
+    second: Vincetta_Longsword_27
+  - first:
+      213: -4348051830875368285
+    second: Vincetta_Longsword_28
+  - first:
+      213: -3070705231811580671
+    second: Vincetta_Longsword_29
+  - first:
+      213: 2919160412389997455
+    second: Vincetta_Longsword_30
+  - first:
+      213: 2400627830396945207
+    second: Vincetta_Longsword_31
+  - first:
+      213: 7091676403032481522
+    second: Vincetta_Longsword_32
+  - first:
+      213: 2823486360561065509
+    second: Vincetta_Longsword_33
+  - first:
+      213: 7047887646912571633
+    second: Vincetta_Longsword_34
+  - first:
+      213: 6126056359643328272
+    second: Vincetta_Longsword_35
+  - first:
+      213: 7646346797044593795
+    second: Vincetta_Longsword_36
+  - first:
+      213: -4003822917500292572
+    second: Vincetta_Longsword_37
+  - first:
+      213: -6595688909836103564
+    second: Vincetta_Longsword_38
+  - first:
+      213: -8192390411226558644
+    second: Vincetta_Longsword_39
+  - first:
+      213: 2097685158278661271
+    second: Vincetta_Longsword_40
+  - first:
+      213: 6137403496879373442
+    second: Vincetta_Longsword_41
+  - first:
+      213: 1303102659432116927
+    second: Vincetta_Longsword_42
+  - first:
+      213: -6168960439757039574
+    second: Vincetta_Longsword_43
+  - first:
+      213: -6828396601900618153
+    second: Vincetta_Longsword_44
+  - first:
+      213: -9156870879122982973
+    second: Vincetta_Longsword_45
+  - first:
+      213: -424389325560076970
+    second: Vincetta_Longsword_46
+  - first:
+      213: -5538154163101239465
+    second: Vincetta_Longsword_47
+  - first:
+      213: 4995566424939927705
+    second: Vincetta_Longsword_48
+  - first:
+      213: -3531419322036504488
+    second: Vincetta_Longsword_49
+  - first:
+      213: -6287702514191567741
+    second: Vincetta_Longsword_50
+  - first:
+      213: -2330429825446761422
+    second: Vincetta_Longsword_51
+  - first:
+      213: 8598835027121991992
+    second: Vincetta_Longsword_52
+  - first:
+      213: 1419321967034562178
+    second: Vincetta_Longsword_53
+  - first:
+      213: 2814432100277214166
+    second: Vincetta_Longsword_54
+  - first:
+      213: 6566998847909246356
+    second: Vincetta_Longsword_55
+  - first:
+      213: -4555343384390557798
+    second: Vincetta_Longsword_56
+  - first:
+      213: -1401239604115382222
+    second: Vincetta_Longsword_57
+  - first:
+      213: -2049872191350705440
+    second: Vincetta_Longsword_58
+  - first:
+      213: 259921931108861225
+    second: Vincetta_Longsword_59
+  - first:
+      213: -3368212457456074176
+    second: Vincetta_Longsword_60
+  - first:
+      213: -4954537019743649203
+    second: Vincetta_Longsword_61
+  - first:
+      213: 8111653014454102247
+    second: Vincetta_Longsword_62
+  - first:
+      213: -1912314870276146899
+    second: Vincetta_Longsword_63
+  - first:
+      213: 1907641911588953085
+    second: Vincetta_Longsword_64
+  - first:
+      213: -4890656057592205719
+    second: Vincetta_Longsword_65
+  - first:
+      213: -4266458956717490300
+    second: Vincetta_Longsword_66
+  - first:
+      213: -6175007427955140575
+    second: Vincetta_Longsword_67
+  - first:
+      213: -4714320035439819095
+    second: Vincetta_Longsword_68
+  - first:
+      213: -2234619916723733671
+    second: Vincetta_Longsword_69
+  - first:
+      213: -4537105361634729734
+    second: Vincetta_Longsword_70
+  - first:
+      213: -2724833630927053799
+    second: Vincetta_Longsword_71
+  - first:
+      213: 192288991643599486
+    second: Vincetta_Longsword_72
+  - first:
+      213: -4234541225104102174
+    second: Vincetta_Longsword_73
+  - first:
+      213: -4755339099650193345
+    second: Vincetta_Longsword_74
+  - first:
+      213: -7903839538603847882
+    second: Vincetta_Longsword_75
+  - first:
+      213: 8684007921671422955
+    second: Vincetta_Longsword_76
+  - first:
+      213: -8457666000209249855
+    second: Vincetta_Longsword_77
+  - first:
+      213: 2491336003289448218
+    second: Vincetta_Longsword_78
+  - first:
+      213: 7444196065330401540
+    second: Vincetta_Longsword_79
+  - first:
+      213: -5797064450962486559
+    second: Vincetta_Longsword_80
+  - first:
+      213: 8413034419561409747
+    second: Vincetta_Longsword_81
+  - first:
+      213: -4188272497493383475
+    second: Vincetta_Longsword_82
+  - first:
+      213: -5601921082966206959
+    second: Vincetta_Longsword_83
+  - first:
+      213: -6993121291512036071
+    second: Vincetta_Longsword_84
+  - first:
+      213: 6766890284402476849
+    second: Vincetta_Longsword_85
+  - first:
+      213: -2147254773161031937
+    second: Vincetta_Longsword_86
+  - first:
+      213: -3611127881823803038
+    second: Vincetta_Longsword_87
+  - first:
+      213: -4096704144135766928
+    second: Vincetta_Longsword_88
+  - first:
+      213: 2014347074688604777
+    second: Vincetta_Longsword_89
+  - first:
+      213: 8660460479248481536
+    second: Vincetta_Longsword_90
+  - first:
+      213: 3424874537976947620
+    second: Vincetta_Longsword_91
+  - first:
+      213: -9141183084277462144
+    second: Vincetta_Longsword_92
+  - first:
+      213: 940979798353508211
+    second: Vincetta_Longsword_93
+  - first:
+      213: 1599882112295278505
+    second: Vincetta_Longsword_94
+  - first:
+      213: -6875262263473251336
+    second: Vincetta_Longsword_95
+  - first:
+      213: -1390119106446846244
+    second: Vincetta_Longsword_96
+  - first:
+      213: -2839322318317151165
+    second: Vincetta_Longsword_97
+  - first:
+      213: 5508093830346089282
+    second: Vincetta_Longsword_98
+  - first:
+      213: -6997054168469723142
+    second: Vincetta_Longsword_99
+  - first:
+      213: 6975015327926083478
+    second: Vincetta_Longsword_100
+  - first:
+      213: -4146777302309315295
+    second: Vincetta_Longsword_101
+  - first:
+      213: -140825311928903585
+    second: Vincetta_Longsword_102
+  - first:
+      213: -1503916104780624278
+    second: Vincetta_Longsword_103
+  - first:
+      213: -9211194155078693222
+    second: Vincetta_Longsword_104
+  - first:
+      213: -1986162187370559789
+    second: Vincetta_Longsword_105
+  - first:
+      213: 4935657987863413666
+    second: Vincetta_Longsword_106
+  - first:
+      213: 42343809641730328
+    second: Vincetta_Longsword_107
+  - first:
+      213: -3616312532948281234
+    second: Vincetta_Longsword_108
+  - first:
+      213: -1757510853669052512
+    second: Vincetta_Longsword_109
+  - first:
+      213: -3549818826592718350
+    second: Vincetta_Longsword_110
+  - first:
+      213: -8807470525924728131
+    second: Vincetta_Longsword_111
+  - first:
+      213: 9023019109302953018
+    second: Vincetta_Longsword_112
+  - first:
+      213: 7498174710323160319
+    second: Vincetta_Longsword_113
+  - first:
+      213: -8800406582800108522
+    second: Vincetta_Longsword_114
+  - first:
+      213: 3087437964983632574
+    second: Vincetta_Longsword_115
+  - first:
+      213: 2004485272328925891
+    second: Vincetta_Longsword_116
+  - first:
+      213: 4540408449095843315
+    second: Vincetta_Longsword_117
+  - first:
+      213: -7498339025308188490
+    second: Vincetta_Longsword_118
+  - first:
+      213: -7901001534236381188
+    second: Vincetta_Longsword_119
+  - first:
+      213: 2271807950811588466
+    second: Vincetta_Longsword_120
+  - first:
+      213: -8488111709314162647
+    second: Vincetta_Longsword_121
+  - first:
+      213: -3227039050828793715
+    second: Vincetta_Longsword_122
+  - first:
+      213: 4664095966269415770
+    second: Vincetta_Longsword_123
+  - first:
+      213: -6116233643152890283
+    second: LongswordCombo_0
+  - first:
+      213: 3091033723546564172
+    second: LongswordCombo_1
+  - first:
+      213: -5476635763002259685
+    second: LongswordCombo_2
+  - first:
+      213: -4613737356479026267
+    second: LongswordCombo_3
+  - first:
+      213: 7953023478162101045
+    second: LongswordCombo_4
+  - first:
+      213: 1231603216469955638
+    second: LongswordCombo_5
+  - first:
+      213: 8720943139220110791
+    second: LongswordCombo_6
+  - first:
+      213: -6199453672954333764
+    second: LongswordCombo_7
+  - first:
+      213: 7296154229543845212
+    second: LongswordCombo_8
+  - first:
+      213: -4159231950097743406
+    second: LongswordCombo_9
+  - first:
+      213: -2094617842434191896
+    second: LongswordCombo_10
+  - first:
+      213: 8918218620914235125
+    second: LongswordCombo_11
+  - first:
+      213: 5285300299964810942
+    second: LongswordCombo_12
+  - first:
+      213: -6317402044853630115
+    second: LongswordCombo_13
+  - first:
+      213: 6922379893823974098
+    second: LongswordCombo_14
+  - first:
+      213: 1084719784205253249
+    second: LongswordCombo_15
+  - first:
+      213: -1983487373840211685
+    second: LongswordCombo_16
+  - first:
+      213: -7158671312071534890
+    second: LongswordCombo_17
+  - first:
+      213: 2928738752814979833
+    second: LongswordCombo_18
+  - first:
+      213: -1361540509487049731
+    second: LongswordCombo_19
+  - first:
+      213: 5393858755183253261
+    second: LongswordCombo_20
+  - first:
+      213: 2000070501397752420
+    second: LongswordCombo_21
+  - first:
+      213: -1789678497341531874
+    second: LongswordCombo_22
+  - first:
+      213: 6549115062375398507
+    second: LongswordCombo_23
+  - first:
+      213: 7209638654713315290
+    second: LongswordCombo_24
+  - first:
+      213: -3409457647463085214
+    second: LongswordCombo_25
+  - first:
+      213: -404605673728130277
+    second: LongswordCombo_26
+  - first:
+      213: 6685602319845022403
+    second: LongswordCombo_27
+  - first:
+      213: -6788000578873829784
+    second: LongswordCombo_28
+  - first:
+      213: -3175632004724134268
+    second: LongswordCombo_29
+  - first:
+      213: -1046230699739056321
+    second: LongswordCombo_30
+  - first:
+      213: -8692339211672166240
+    second: LongswordCombo_31
+  - first:
+      213: -3921205542928589589
+    second: LongswordCombo_32
+  - first:
+      213: -7046260529312961644
+    second: LongswordCombo_33
+  - first:
+      213: -4088692898084264807
+    second: LongswordCombo_34
+  - first:
+      213: -6955082561841353106
+    second: LongswordCombo_35
+  - first:
+      213: -399315316871545688
+    second: LongswordCombo_36
+  - first:
+      213: -7945184011437584887
+    second: LongswordCombo_37
+  - first:
+      213: -110749699035287172
+    second: LongswordCombo_38
+  - first:
+      213: 4481314455523675885
+    second: LongswordCombo_39
+  - first:
+      213: -6563763810282111881
+    second: LongswordCombo_40
+  - first:
+      213: 1582597600822409033
+    second: LongswordCombo_41
+  - first:
+      213: -8451134649866074647
+    second: LongswordCombo_42
+  - first:
+      213: 3401651163161941590
+    second: LongswordCombo_43
+  - first:
+      213: -1830283159679145009
+    second: LongswordCombo_44
+  - first:
+      213: 6701115987649697210
+    second: LongswordCombo_45
+  - first:
+      213: -1687787733634825410
+    second: LongswordCombo_46
+  - first:
+      213: -119851138970467785
+    second: LongswordCombo_47
+  - first:
+      213: -7317405564662342250
+    second: LongswordCombo_48
+  - first:
+      213: -3948172952782893064
+    second: LongswordCombo_49
+  - first:
+      213: -4990631913003374982
+    second: LongswordCombo_50
+  - first:
+      213: 6496626030459805340
+    second: LongswordCombo_51
+  - first:
+      213: 492462009429076827
+    second: LongswordCombo_52
+  - first:
+      213: 1945641155042189602
+    second: LongswordCombo_53
+  - first:
+      213: -7417592232017868588
+    second: LongswordCombo_54
+  - first:
+      213: -1614974034540966557
+    second: LongswordCombo_55
+  - first:
+      213: -6335197170115996047
+    second: LongswordCombo_56
+  - first:
+      213: 7972941447649419336
+    second: LongswordCombo_57
+  - first:
+      213: -4045178693888332646
+    second: LongswordCombo_58
+  - first:
+      213: -6666810668118392297
+    second: LongswordCombo_59
+  - first:
+      213: 4637337061443275538
+    second: LongswordCombo_60
+  - first:
+      213: 4116398401563310629
+    second: LongswordCombo_61
+  - first:
+      213: 9028941885283861217
+    second: LongswordCombo_62
+  - first:
+      213: -2488452684309115426
+    second: LongswordCombo_63
+  - first:
+      213: 2240826669886063926
+    second: LongswordCombo_64
+  - first:
+      213: 7658926187313531275
+    second: LongswordCombo_65
+  - first:
+      213: -304808740430948927
+    second: LongswordCombo_66
+  - first:
+      213: -5233019239695168489
+    second: LongswordCombo_67
+  - first:
+      213: -755942028114588944
+    second: LongswordCombo_68
+  - first:
+      213: -3924458598668857026
+    second: LongswordCombo_69
+  - first:
+      213: -969986819628757684
+    second: LongswordCombo_70
+  - first:
+      213: 8867170900622756305
+    second: LongswordCombo_71
+  - first:
+      213: 8739932821986986907
+    second: LongswordCombo_72
+  - first:
+      213: 411809042911691586
+    second: LongswordCombo_73
+  - first:
+      213: 9154738870248277234
+    second: LongswordCombo_74
+  - first:
+      213: 7561524163657153254
+    second: LongswordCombo_75
+  - first:
+      213: 5838913040860695181
+    second: LongswordCombo_76
+  - first:
+      213: -6091601247149486818
+    second: LongswordCombo_77
+  - first:
+      213: 8591175511635027399
+    second: LongswordCombo_78
+  - first:
+      213: -3184131006247972988
+    second: LongswordCombo_79
+  - first:
+      213: 4755815410323038534
+    second: LongswordCombo_80
+  - first:
+      213: -7035709987420877197
+    second: LongswordCombo_81
+  - first:
+      213: 2800578544405876283
+    second: LongswordCombo_82
+  - first:
+      213: 8508640725331974947
+    second: LongswordCombo_83
+  - first:
+      213: -531329139064115892
+    second: LongswordCombo_84
+  - first:
+      213: -6441377881047168943
+    second: LongswordCombo_85
+  - first:
+      213: -2362430096853929970
+    second: LongswordCombo_86
+  - first:
+      213: -2635628955805552498
+    second: LongswordCombo_87
+  - first:
+      213: 2950592914715591780
+    second: LongswordCombo_88
+  - first:
+      213: -1422916693458477768
+    second: LongswordCombo_89
+  - first:
+      213: 6351946288056221683
+    second: LongswordCombo_90
+  - first:
+      213: 8095274897637780998
+    second: LongswordCombo_91
+  - first:
+      213: 6847801900191987151
+    second: LongswordCombo_92
+  - first:
+      213: -6872008649849397719
+    second: LongswordCombo_93
+  - first:
+      213: 3983876035183837336
+    second: LongswordCombo_94
+  - first:
+      213: 553233475196996853
+    second: LongswordCombo_95
+  - first:
+      213: -3480866044629575847
+    second: LongswordCombo_96
+  - first:
+      213: -7628887565770721506
+    second: LongswordCombo_97
+  - first:
+      213: -7407720153911964598
+    second: LongswordCombo_98
+  - first:
+      213: -7358378698685329656
+    second: LongswordCombo_99
+  - first:
+      213: -2982622187235185369
+    second: LongswordCombo_100
+  - first:
+      213: -3452334734826918915
+    second: LongswordCombo_101
+  - first:
+      213: 4509773866730555985
+    second: LongswordCombo_102
+  - first:
+      213: 679904363316494007
+    second: LongswordCombo_103
+  - first:
+      213: -838653766468328525
+    second: LongswordCombo_104
+  - first:
+      213: -5336472082857746597
+    second: LongswordCombo_105
+  - first:
+      213: -7107132528288975531
+    second: LongswordCombo_106
+  - first:
+      213: 5949460050308221
+    second: LongswordCombo_107
+  - first:
+      213: -8729204847669156679
+    second: LongswordCombo_108
+  - first:
+      213: -2949376686775340210
+    second: LongswordCombo_109
+  - first:
+      213: 4100997824790664070
+    second: LongswordCombo_110
+  - first:
+      213: 5568295711375415788
+    second: LongswordCombo_111
+  - first:
+      213: 5683174392041140586
+    second: LongswordCombo_112
+  - first:
+      213: -5820702935526381212
+    second: LongswordCombo_113
+  - first:
+      213: 5840027061989914829
+    second: LongswordCombo_114
+  - first:
+      213: 7425430910516590953
+    second: LongswordCombo_115
+  - first:
+      213: -7024265629260887848
+    second: LongswordCombo_116
+  - first:
+      213: -2746851658825910723
+    second: LongswordCombo_117
+  - first:
+      213: -2358979889016268630
+    second: LongswordCombo_118
+  - first:
+      213: -5225492029837347999
+    second: LongswordCombo_119
+  - first:
+      213: 158552598126302001
+    second: LongswordCombo_120
+  - first:
+      213: 75418914699871354
+    second: LongswordCombo_121
+  - first:
+      213: -3626220832231055919
+    second: LongswordCombo_122
+  - first:
+      213: 8782411798343323838
+    second: LongswordCombo_123
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LongswordCombo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09b001c7c658154a93db9620f0edefd
+      internalID: -6116233643152890283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9bc6f9292621441a9675f211cf4700
+      internalID: 3091033723546564172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b93c4da48e837a4d9bfbdffb0a731fc
+      internalID: -5476635763002259685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53945055911e1f49af2bb60e3e40a72
+      internalID: -4613737356479026267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c10a4f37745b84281838d26c1d4c12
+      internalID: 7953023478162101045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8434b83320c18c54890dce217bbe1759
+      internalID: 1231603216469955638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753e0db3d1c82294ba3cf3c839221748
+      internalID: 8720943139220110791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e664443b69173554cb49a0fb141f3860
+      internalID: -6199453672954333764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1e87728362e5d4293d05ab81c18e2d
+      internalID: 7296154229543845212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0dc3968a24dee4bb897ede85e3b462
+      internalID: -4159231950097743406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae47b236d2608d84ea0a7b9b68c35dfc
+      internalID: -2094617842434191896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4ad17111e527743868cd6551fe389c
+      internalID: 8918218620914235125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e884e5c0f8acbbe48bcba9b5058cd72e
+      internalID: 5285300299964810942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910f3274fc4890f498600065db520eb6
+      internalID: -6317402044853630115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681e98a34288a3544a6dc0737da4ecb8
+      internalID: 6922379893823974098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13f59d188cc06b46902b7515717aa19
+      internalID: 1084719784205253249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7bb314e1a01864aa289bb59a8e7ff6
+      internalID: -1983487373840211685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df84629c2bf49534ba93869565220ef4
+      internalID: -7158671312071534890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09388c98cc028d48a7cd48b2e9a0f35
+      internalID: 2928738752814979833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_19
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3dd2b152aad5b044b5c98d44064a5c3
+      internalID: -1361540509487049731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e3bda1813565c43b80cddb929f8d42
+      internalID: 5393858755183253261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_21
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18f913d0ff276547b3c07ed157d87f6
+      internalID: 2000070501397752420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_22
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfff1f98e5d69b4d9f7276ce878fc61
+      internalID: -1789678497341531874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_23
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d90f1201e20b5c4f8f3259ad0297c7a
+      internalID: 6549115062375398507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14251e1969b47284b8a320a3d5bb10ca
+      internalID: 7209638654713315290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88050c85357475e45935a4d6924b6f0a
+      internalID: -3409457647463085214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60252eb640cca2f4ead425f98d6f5b46
+      internalID: -404605673728130277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7c8a82e65e4694d9928283853f1d52
+      internalID: 6685602319845022403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9017734a93c39554eac305c66129c436
+      internalID: -6788000578873829784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776c90d588d3fcd49b529d8d33038aea
+      internalID: -3175632004724134268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8079f4f0a79da60479bd0a4c08fd0045
+      internalID: -1046230699739056321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1cdb65c793726489fee2c7e83d435f
+      internalID: -8692339211672166240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923f63194980f984299a41f1e7363b99
+      internalID: -3921205542928589589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_33
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8529f51c84cbf441b61dfd17bf7f4f5
+      internalID: -7046260529312961644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_34
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25f9b791330e534e863742b89f077e1
+      internalID: -4088692898084264807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_35
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a29ec890c02168468e24979a8860fa9
+      internalID: -6955082561841353106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b45559371c566044bd2265daa34e778
+      internalID: -399315316871545688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29ac502e3cf68a449263a2c9289f928
+      internalID: -7945184011437584887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c882059baee1552459e35af8c1282fcb
+      internalID: -110749699035287172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776e00bb37ec7cf4bbc1ad1b6a496c0a
+      internalID: 4481314455523675885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3551ae694955743ad1ce35b1a49575
+      internalID: -6563763810282111881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186782253d9ff85479c4dddc250d8605
+      internalID: 1582597600822409033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7475f2c810f560841bf6317d4af20fd4
+      internalID: -8451134649866074647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8e26c71610cbd40988a29bf12732b7
+      internalID: 3401651163161941590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8415e1fb35c4244b83f4e18ff9a3e75
+      internalID: -1830283159679145009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_45
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f021310bb68ad0478e9ae55a293a958
+      internalID: 6701115987649697210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_46
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a5e3026de37cf46bb3ec97e3e80818
+      internalID: -1687787733634825410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_47
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e90e7f715dc086419dfea4ac2f582e6
+      internalID: -119851138970467785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733b6ed0671d5b74c9a61e90e851a8a7
+      internalID: -7317405564662342250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5572e1d692db4245b65b8a912cd78f6
+      internalID: -3948172952782893064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e53570029bde2a4b8e3607f34eaf8bd
+      internalID: -4990631913003374982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac420aa99169e2442a72f9ce2ea6d039
+      internalID: 6496626030459805340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cb6afd2794257439d906d280b3df30
+      internalID: 492462009429076827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df81288414cc8054d894891abd88ec20
+      internalID: 1945641155042189602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4dc7ae9b4857248aebeff615199c21
+      internalID: -7417592232017868588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_55
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05684c9de9c610343b96f7281fd325ed
+      internalID: -1614974034540966557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_56
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbc4e7cc576c0f45b4ef5a017d5fa7f
+      internalID: -6335197170115996047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_57
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69fedb74b8886c4cb61e73d8ce3d25c
+      internalID: 7972941447649419336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876b671aef405514180b9c6f1f053290
+      internalID: -4045178693888332646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_59
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b88b01e08ff8c4fb9f933892abbabf
+      internalID: -6666810668118392297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75aa42fab74c4a408bebf7adb2c9e39
+      internalID: 4637337061443275538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f27f05dae40464792029dc24f4a9bb
+      internalID: 4116398401563310629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1300270b18a9ef4294245c2bf9bb08f
+      internalID: 9028941885283861217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9a2e50374092d4db9bfb00aeffd721
+      internalID: -2488452684309115426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6392135524704e54e957b039d198b562
+      internalID: 2240826669886063926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39aa63abb6333e344b3c8fa9b28cff8d
+      internalID: 7658926187313531275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c057ae407dad24f8e6b741b5c96647
+      internalID: -304808740430948927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_67
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d928de536867db84b9269621eebbcb9f
+      internalID: -5233019239695168489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194284a0e4a8e8e4b942f9f91067827a
+      internalID: -755942028114588944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_69
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8fb2b836d22644f8f1bcd02adcb1db
+      internalID: -3924458598668857026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_70
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a59ed00f05b2d4d9bd6581ed086403
+      internalID: -969986819628757684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_71
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca66f916cda92564abbfebb85db3f56c
+      internalID: 8867170900622756305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b405bf6bdd027d14c9e8abdd1e792840
+      internalID: 8739932821986986907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_73
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34250f72f0807614792c84eaeee2ac7b
+      internalID: 411809042911691586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a36ade2d1d98a47a53942572d9ae9a
+      internalID: 9154738870248277234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5200ff42b4fdbf44db251b84f21b8181
+      internalID: 7561524163657153254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_76
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3660a9b19e17f43a3bd964b4ee150e
+      internalID: 5838913040860695181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_77
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dd0458605da9144883d5ff8813ed46
+      internalID: -6091601247149486818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_78
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be650c2264ad8b743959752bf1c240d6
+      internalID: 8591175511635027399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_79
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c00822118806c40a9bafe65535149f
+      internalID: -3184131006247972988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_80
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b58135f1765634f8e77a551ab2faf3
+      internalID: 4755815410323038534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_81
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30739ec71723d84ab6544121a203100
+      internalID: -7035709987420877197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_82
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0802829e5964e7c4bb77a286cab7773c
+      internalID: 2800578544405876283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_83
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe3d852dacc1c0488353b282825140e
+      internalID: 8508640725331974947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7150ed2d7553754b8d8c4aa4dab90b3
+      internalID: -531329139064115892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_85
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3035779042d7e074ea1414dd9e98d1f1
+      internalID: -6441377881047168943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_86
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813cfd8b393773d45aeced26cfe56807
+      internalID: -2362430096853929970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_87
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e24f7f1a9868d84cbf92c55438addf0
+      internalID: -2635628955805552498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057857fb2797b6d4796b1c47736ba288
+      internalID: 2950592914715591780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_89
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7609e0d64c85a1848b8fa6587605d1eb
+      internalID: -1422916693458477768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_90
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5afb5313a38be240876fd3db1533efc
+      internalID: 6351946288056221683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_91
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e5a2571b837904990d2fc8e0283e97
+      internalID: 8095274897637780998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_92
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c120363a446cd5446aefa9f32834b8a1
+      internalID: 6847801900191987151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_93
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40a311b2cc2c50468586555b48c9e98
+      internalID: -6872008649849397719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_94
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c328c15ad341db49abf8aa1be4ca68b
+      internalID: 3983876035183837336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_95
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86e7adebbc23d443aa86e5c83fb3e9e
+      internalID: 553233475196996853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb1d68bd1703bd46897f02ea39efd0a
+      internalID: -3480866044629575847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1573fb8c688976b479490652bbfabf54
+      internalID: -7628887565770721506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d68d76abeabbc499f1a818f49a2770
+      internalID: -7407720153911964598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feaa2ac2c6171e44182a84b07ae81abb
+      internalID: -7358378698685329656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6730c040f6d69b438a4c054f8e982b1
+      internalID: -2982622187235185369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fbd602ed0dc4b4bbef13c765249439
+      internalID: -3452334734826918915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_102
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9eb8e636a40cf4ba9da3e9d0fb71ce
+      internalID: 4509773866730555985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_103
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08459945c7665854ba162897248b0728
+      internalID: 679904363316494007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_104
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cf5fb39ac489241b007f497e0e6c07
+      internalID: -838653766468328525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_105
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bfdb9a616186e4495b52cbc67854ef
+      internalID: -5336472082857746597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_106
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf4dde47742edf428d510bfa7c235a2
+      internalID: -7107132528288975531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_107
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485bde4bcfe3750469d96d9a773cc53a
+      internalID: 5949460050308221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e2c5d7bbcbb91448acdc5879f3fdb1
+      internalID: -8729204847669156679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed10f8111ae258040810782633a4bbe7
+      internalID: -2949376686775340210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ef6e91ec5aec24f826868d2e5a7484
+      internalID: 4100997824790664070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11fbd60cb6dcb2459b71da0668892ac
+      internalID: 5568295711375415788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b318fd1b03189409d1395b0a4ef263
+      internalID: 5683174392041140586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_113
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612dfa0743ace49409b85fa99ef7ea93
+      internalID: -5820702935526381212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_114
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b138e656761214f4bb57e1fb153fb22c
+      internalID: 5840027061989914829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_115
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0a84d7bc2c103418126c1c1fd88ba5
+      internalID: 7425430910516590953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_116
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb7905cc2a7d7144bcdce875df59c9d
+      internalID: -7024265629260887848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_117
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e99cece6a25ae941862f3c2f438ee66
+      internalID: -2746851658825910723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_118
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca996cb321db5314eb4fe35335c71dd0
+      internalID: -2358979889016268630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_119
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd742c08258d7714a98f0b5564f45e67
+      internalID: -5225492029837347999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75d22780e810a54fa058f46fec3d9c6
+      internalID: 158552598126302001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770c8f9044cc95a428072e661cd7760e
+      internalID: 75418914699871354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be31cee0f7dd4048ac8fc0b24f9fc40
+      internalID: -3626220832231055919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongswordCombo_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3664ffbf930f5d42a431cee07f5d9bd
+      internalID: 8782411798343323838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c0fb014f063bf4c41a55eab23a7d1628
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

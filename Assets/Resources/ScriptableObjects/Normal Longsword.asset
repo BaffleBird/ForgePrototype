@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34f937ce8d46f3643acfb31b424e3917, type: 3}
+  m_Name: Normal Longsword
+  m_EditorClassIdentifier: 
+  weaponType: 1
+  weaponName: Normal
+  inGameName: Steel Longsword
+  weaponEffect: {fileID: 1296762443548205288, guid: d7f276389eb317e4f91c0be9fb9dcfcc,
+    type: 3}
+  weaponPower: 80
+  weaponWeight: 1
